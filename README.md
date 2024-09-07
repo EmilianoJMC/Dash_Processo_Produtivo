@@ -2,7 +2,7 @@
 
 Projeto de um Dashboard simples e dinâmico, sobre processo produtivo de uma empresa fictícia.
 Utilizado excel como fonte de dados e sua apesentação feito via Power BI.
-Utilzado medidas em DAX e tooltips para gerar informações.
+Utilzado medidas em DAX e tooltips para gerar informações, e toda modelagem feita via Power Query.
 
 ![image](https://github.com/user-attachments/assets/72d8aff9-d6dc-468d-a6a5-f1d24430a56b)
 
